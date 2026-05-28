@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/Flutter.framework/Flutter</key>
 		<data>
-		TgGo5mNU6BbtreZjgj7oKqmyCxI=
+		DMxVhkmXkKa0M8jXN4L9PS9Z3r8=
 		</data>
 		<key>ios-arm64/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>ios-arm64/Flutter.framework/Info.plist</key>
 		<data>
-		dt3CssCg7aOSToATLI0YvLW5uxI=
+		UnVnWPm5qpm7HFY3mEgLVNC0Ugo=
 		</data>
 		<key>ios-arm64/Flutter.framework/Modules/module.modulemap</key>
 		<data>
@@ -94,15 +94,27 @@
 		</data>
 		<key>ios-arm64/Flutter.framework/_CodeSignature/CodeResources</key>
 		<data>
-		wPOCEWhChvP1EEmdlfKPrrFAjZ4=
+		vW18j/Fjo4u3hNVeGCeF7U+EpZs=
 		</data>
 		<key>ios-arm64/Flutter.framework/icudtl.dat</key>
 		<data>
 		ipm8hg7aB3LzsfShJfpNR0QQ4hw=
 		</data>
+		<key>ios-arm64/dSYMs/Flutter.framework.dSYM/Contents/Info.plist</key>
+		<data>
+		0O4xh8BRc5IjJjTTGIxrSi7YjyA=
+		</data>
+		<key>ios-arm64/dSYMs/Flutter.framework.dSYM/Contents/Resources/DWARF/Flutter</key>
+		<data>
+		KU1nCt0Bvjh6+9NgWcT6Ye4JtcE=
+		</data>
+		<key>ios-arm64/dSYMs/Flutter.framework.dSYM/Contents/Resources/Relocations/aarch64/Flutter.yml</key>
+		<data>
+		zfdmppfSfhxJCOm14rVcwaIhsoE=
+		</data>
 		<key>ios-arm64_x86_64-simulator/Flutter.framework/Flutter</key>
 		<data>
-		9NUwjO2pShw959T/Jxh1xkrJdww=
+		9Ac0k9oKFXbCFaKrcexWUFJaySU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -203,11 +215,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TgGo5mNU6BbtreZjgj7oKqmyCxI=
+			DMxVhkmXkKa0M8jXN4L9PS9Z3r8=
 			</data>
 			<key>hash2</key>
 			<data>
-			DuCnRrCFblZ+r32UqjmDr08o7EkffDxZWMF9v7ZmyUg=
+			+rI76TiU7EerHQkKCCQOoVnctw5sZ1JRhERI5KFQz0U=
 			</data>
 		</dict>
 		<key>ios-arm64/Flutter.framework/Headers/Flutter.h</key>
@@ -412,11 +424,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dt3CssCg7aOSToATLI0YvLW5uxI=
+			UnVnWPm5qpm7HFY3mEgLVNC0Ugo=
 			</data>
 			<key>hash2</key>
 			<data>
-			lAHZCrxllrR9M807ht1qGT4fyyXFqPO6a8kaOpxWjsI=
+			Qodb4b3VUlw4M/2+XvxvSRS9DzcdroSSZvMiB9/yewU=
 			</data>
 		</dict>
 		<key>ios-arm64/Flutter.framework/Modules/module.modulemap</key>
@@ -445,11 +457,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wPOCEWhChvP1EEmdlfKPrrFAjZ4=
+			vW18j/Fjo4u3hNVeGCeF7U+EpZs=
 			</data>
 			<key>hash2</key>
 			<data>
-			konfd8fHk/Az0CUjZiHj7QVnWUuph15Bh80ZzkL0VGU=
+			eQOHhlMvNSjlvBujWNobGgrqwHIeWr4r37lxFvfMC64=
 			</data>
 		</dict>
 		<key>ios-arm64/Flutter.framework/icudtl.dat</key>
@@ -463,15 +475,48 @@
 			wSU3Ai74GJkae/7UGnbY1q6WL/vA5lEax2Kl0IRef3w=
 			</data>
 		</dict>
+		<key>ios-arm64/dSYMs/Flutter.framework.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0O4xh8BRc5IjJjTTGIxrSi7YjyA=
+			</data>
+			<key>hash2</key>
+			<data>
+			2sWnxBJViOG2QclRoxjBIR4RqBpdGHQVbDVsz6WEC24=
+			</data>
+		</dict>
+		<key>ios-arm64/dSYMs/Flutter.framework.dSYM/Contents/Resources/DWARF/Flutter</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KU1nCt0Bvjh6+9NgWcT6Ye4JtcE=
+			</data>
+			<key>hash2</key>
+			<data>
+			lUQTjtrfBLPJgtPmPa7L+RkSq+lNYRj1TqA0ZKHhqYc=
+			</data>
+		</dict>
+		<key>ios-arm64/dSYMs/Flutter.framework.dSYM/Contents/Resources/Relocations/aarch64/Flutter.yml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zfdmppfSfhxJCOm14rVcwaIhsoE=
+			</data>
+			<key>hash2</key>
+			<data>
+			yviwTGCM6RL1kcMp7f3Of8DOrvvy8Rhd6U6XwQGaldQ=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/Flutter.framework/Flutter</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9NUwjO2pShw959T/Jxh1xkrJdww=
+			9Ac0k9oKFXbCFaKrcexWUFJaySU=
 			</data>
 			<key>hash2</key>
 			<data>
-			RMZtgqJpFW8ubQfkf6ziiXWoWmKy7mYLyJb8tMhPYEU=
+			PejB1tSlqZAx1V1LUFcddhCt5wbz2Hm9tphOw4dcIDE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Flutter.framework/Headers/Flutter.h</key>
