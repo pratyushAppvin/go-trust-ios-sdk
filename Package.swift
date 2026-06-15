@@ -126,7 +126,7 @@ let package = Package(
 
                 url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.7/SDWebImage.xcframework.zip",
 
-                checksum: "fc2c10be243e390c9d3b895993f29eaf926af373e993a88017f4af1aee1d6ffc"
+                checksum: "3641c2d79aee477f51483f1a6e4fd4560f668a5f8c050bc47b759fdc470aa342"
 
             ),
 
