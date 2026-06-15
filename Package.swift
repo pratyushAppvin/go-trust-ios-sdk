@@ -36,76 +36,146 @@ let package = Package(
             path: "Sources"
         ),
 
-        .binaryTarget(
-            name: "Flutter",
-            url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.6/Flutter.xcframework.zip",
-            checksum: "30513cdf0467f58fb6677e3a3210c106e8dae0433e006b853ea20af5c59e95b2"
-        ),
+            .binaryTarget(
 
-        .binaryTarget(
-            name: "App",
-            url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.6/App.xcframework.zip",
-            checksum: "770cf46f4ea5e6f6c8f77584bc4a9c107917f17c1561e0ac799d0ce41702d969"
-        ),
+                name: "Flutter",
 
-        .binaryTarget(
-            name: "device_info_plus",
-            url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.6/device_info_plus.xcframework.zip",
-            checksum: "b10d20c7ce89fc7c13f30f3ddf320143bd1e8d756bcf3cc89f6e9c5677556095"
-        ),
+                url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.7/Flutter.xcframework.zip",
 
-        .binaryTarget(
-            name: "DKImagePickerController",
-            url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.6/DKImagePickerController.xcframework.zip",
-            checksum: "41099603885b43f4dcb1b1d21cb7bf64636a11bf931d10426b1a9293d48de79a"
-        ),
+                checksum: "19a3e13fe7616c00a0bc691d5ee08567ea5656df6a15b6cca7a3d76e4d7f8837"
 
-        .binaryTarget(
-            name: "DKPhotoGallery",
-            url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.6/DKPhotoGallery.xcframework.zip",
-            checksum: "d09877d0e350f2516eb4b5b6dfad3d4cb47e510ef0f2438765767306b0d13c25"
-        ),
+            ),
 
-        .binaryTarget(
-            name: "file_picker",
-            url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.6/file_picker.xcframework.zip",
-            checksum: "6449fab8945cdfa7605b84ced166098cd883f64d1fae4cabef4f6bc940bdd150"
-        ),
 
-        .binaryTarget(
-            name: "FlutterPluginRegistrant",
-            url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.6/FlutterPluginRegistrant.xcframework.zip",
-            checksum: "95eec236f1d0adc9841613297b51082f7b884bd1fb75e0e1215acc70ff2e8714"
-        ),
 
-        .binaryTarget(
-            name: "SDWebImage",
-            url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.6/SDWebImage.xcframework.zip",
-            checksum: "b2ae17f003474a47b76783215ecbad11a0a5bc1d1ea6d6cc46ab68ac51f0041c"
-        ),
+            .binaryTarget(
 
-        .binaryTarget(
-            name: "shared_preferences_foundation",
-            url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.6/shared_preferences_foundation.xcframework.zip",
-            checksum: "b5969a3ea8bf200f89007cfe230d74e4284cf98695456a3786e19ede4896535b"
-        ),
+                name: "App",
 
-        .binaryTarget(
-            name: "SwiftyGif",
-            url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.6/SwiftyGif.xcframework.zip",
-            checksum: "ee8a296ec41889f10848d449b19056d535a7e0830b238911a08ac89dbaa0e7ab"
-        ),
+                url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.7/App.xcframework.zip",
 
-        .binaryTarget(
-            name: "url_launcher_ios",
-            url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.6/url_launcher_ios.xcframework.zip",
-            checksum: "2cdb9ddf6c2513ff86475ff8add2393a3d94b78925cd331bfb8fe80dcbb5035c"
-        ),
+                checksum: "b929e11ed1af1e558f10fbe01c8404826ccfae097783ee0492b864091f0c7ba0"
 
-        .binaryTarget(
-            name: "webview_flutter_wkwebview",
-            url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.6/webview_flutter_wkwebview.xcframework.zip",
-            checksum: "33c170744ba0efce7b60c1e729c449b9b365448cdca6ada477f3cd0ba24ee91b"
-        )
+            ),
+
+
+
+            .binaryTarget(
+
+                name: "device_info_plus",
+
+                url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.7/device_info_plus.xcframework.zip",
+
+                checksum: "ab02730f3225b38f7ae3809d6c92c6905627c7c74b537afb415c49c7626f8364"
+
+            ),
+
+
+
+            .binaryTarget(
+
+                name: "DKImagePickerController",
+
+                url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.7/DKImagePickerController.xcframework.zip",
+
+                checksum: "88e0e926b4e809f30c047e9f9dd407ba20e4fc56676a9ecdc403dbc0727621d0"
+
+            ),
+
+
+
+            .binaryTarget(
+
+                name: "DKPhotoGallery",
+
+                url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.7/DKPhotoGallery.xcframework.zip",
+
+                checksum: "2fff0c01515e25d6df4fe86c48185c124a54bf48759d84a10605a9c6a9d70f14"
+
+            ),
+
+
+
+            .binaryTarget(
+
+                name: "file_picker",
+
+                url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.7/file_picker.xcframework.zip",
+
+                checksum: "c2f111768624adfdfb99261ae0b51f189deec8d2d406952b2e13014ce61a9451"
+
+            ),
+
+
+
+            .binaryTarget(
+
+                name: "FlutterPluginRegistrant",
+
+                url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.7/FlutterPluginRegistrant.xcframework.zip",
+
+                checksum: "fc2c10be243e390c9d3b895993f29eaf926af373e993a88017f4af1aee1d6ffc"
+
+            ),
+
+
+
+            .binaryTarget(
+
+                name: "SDWebImage",
+
+                url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.7/SDWebImage.xcframework.zip",
+
+                checksum: "fc2c10be243e390c9d3b895993f29eaf926af373e993a88017f4af1aee1d6ffc"
+
+            ),
+
+
+
+            .binaryTarget(
+
+                name: "shared_preferences_foundation",
+
+                url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.7/shared_preferences_foundation.xcframework.zip",
+
+                checksum: "b7ffdb9b519aeed6cf1f015a4500b855d3d9b4220927f55238de0df6b324376a"
+
+            ),
+
+
+
+            .binaryTarget(
+
+                name: "SwiftyGif",
+
+                url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.7/SwiftyGif.xcframework.zip",
+
+                checksum: "45690e162862b2b9a042c365cad328a5d4e073d5d7eb1b9d1189bcbdc8ef1346"
+
+            ),
+
+
+
+            .binaryTarget(
+
+                name: "url_launcher_ios",
+
+                url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.7/url_launcher_ios.xcframework.zip",
+
+                checksum: "1bea9163f8cde1fe5e6b722263c0b182879d48fef2a1dedcd0f4940cd9d104d1"
+
+            ),
+
+
+
+            .binaryTarget(
+
+                name: "webview_flutter_wkwebview",
+
+                url: "https://github.com/pratyushAppvin/go-trust-ios-sdk/releases/download/1.0.7/webview_flutter_wkwebview.xcframework.zip",
+
+                checksum: "aff1ec51519483d5b6d88c51ab015358d4e8bdbb0a2831a768d3e916476354a5"
+
+            )
     ]
 )
